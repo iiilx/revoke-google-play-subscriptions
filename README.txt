@@ -10,3 +10,5 @@ Have the JSON radio button selected and click "Create"--a file will be downloade
 Go back to the 1st tab and click Done.
 Grant all permissions for this user
 in the downloaded json file, `client_email` and `private_key` should be used in the revoke.py script
+
+create a virtualenv, source it, and install requirements `pip install -r requirements.txt`
